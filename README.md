@@ -33,7 +33,7 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 
 ## 📧 Contact
 
-Have questions or feedback? Reach out to us via email at [your-email@example.com](mailto:contact.nikhil.in@gmail.com) or open an issue in this repository.
+Have questions or feedback? Reach out to us via email at [contact.nikhil.in.com](mailto:contact.nikhil.in@gmail.com) or open an issue in this repository.
 
 
 Explore Groww with us and discover how it's revolutionizing the investment landscape in India. Happy exploring! 🌟💼
