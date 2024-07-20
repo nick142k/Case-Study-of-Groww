@@ -1,4 +1,3 @@
-# Case-Study-of-Groww
 # Groww Product Dissection 🌱💸
 
 Welcome to the Groww Product Dissection repository! Dive into the world of financial technology with us as we explore Groww, India's leading investment platform. This repository is a comprehensive guide to understanding Groww's offerings, database schema, and more.
